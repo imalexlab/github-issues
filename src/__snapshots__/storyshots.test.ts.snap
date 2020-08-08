@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Issue Default 1`] = `
+<li
+  className="sc-AxhUy enhySx"
+>
+  <a
+    className="sc-AxirZ gNRqZr"
+    href="https://api.github.com/users/trueadm"
+    rel="noopener noreferrer"
+  >
+    <img
+      alt="trueadm"
+      className="sc-AxiKw kANSqL"
+      src="https://avatars0.githubusercontent.com/u/1519870?v=4"
+    />
+    <span
+      className="sc-AxhCb eghHmX"
+    >
+      trueadm
+    </span>
+  </a>
+  <div>
+    <p
+      className="sc-AxgMl fFPQpl"
+    >
+      beforeInputPlugin: add native support for beforeinput
+    </p>
+  </div>
+  19554
+</li>
+`;
+
+exports[`Storyshots Spinner Default 1`] = `
+<div
+  className="sc-AxjAm knVtrj"
+>
+  <div />
+  <div />
+  <div />
+  <div />
+</div>
+`;
+
+exports[`Storyshots User Default 1`] = `
+<a
+  className="sc-AxirZ gNRqZr"
+  href="https://api.github.com/users/trueadm"
+  rel="noopener noreferrer"
+>
+  <img
+    alt="trueadm"
+    className="sc-AxiKw kANSqL"
+    src="https://avatars0.githubusercontent.com/u/1519870?v=4"
+  />
+  <span
+    className="sc-AxhCb eghHmX"
+  >
+    trueadm
+  </span>
+</a>
+`;

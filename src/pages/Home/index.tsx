@@ -1,8 +1,14 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import styled from 'styled-components';
 import getIssues from 'src/services/getIssues';
+import Spinner from 'src/atoms/Spinner';
 
-const Wrapper = styled.div``;
+const Wrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+`;
 
 const Home = () => {
   const [issues, setIssues] = useState([]);
@@ -28,7 +34,11 @@ const Home = () => {
 
   // Rendering
   if (pending) {
-    return <Wrapper>Loading</Wrapper>;
+    return (
+      <Wrapper>
+        <Spinner />
+      </Wrapper>
+    );
   }
 
   return <Wrapper>Issues</Wrapper>;
