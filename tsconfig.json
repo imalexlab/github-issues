@@ -22,10 +22,10 @@
     "isolatedModules": true,
     "jsx": "react",
     "suppressImplicitAnyIndexErrors": true,
-    "noUnusedLocals": true,
     "declaration": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "baseUrl": ".",
     "noEmit": true
   },
   "include": [
