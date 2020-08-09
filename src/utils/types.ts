@@ -77,4 +77,6 @@ export interface PullRequest {
 
 export enum State {
   Open = 'open',
+  Closed = 'closed',
+  All = 'all',
 }

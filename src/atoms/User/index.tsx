@@ -6,17 +6,26 @@ const Wrapper = styled.a`
   display: flex;
   flex-direction: column;
   text-decoration: none;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
 `;
 
 const Avatar = styled.img`
   border-radius: 50%;
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
 `;
 
 const Username = styled.span`
+  color: #565c88;
+  font-size: 14px;
   margin: 0;
-  color: #252a34;
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 `;
 
 export default ({ user }: { user: User }) => (

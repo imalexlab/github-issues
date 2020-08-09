@@ -23,10 +23,10 @@ const Wrapper = styled.div`
     width: 64px;
     height: 64px;
     margin: 8px;
-    border: 8px solid #252a34;
+    border: 8px solid #565c88;
     border-radius: 50%;
     animation: ${rotation} 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
-    border-color: #252a34 transparent transparent transparent;
+    border-color: #565c88 transparent transparent transparent;
   }
 
   div:nth-child(1) {
