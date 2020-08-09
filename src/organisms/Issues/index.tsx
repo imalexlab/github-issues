@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { Issue as IssueType } from 'src/utils/types';
 import Issue from 'src/molecules/Issue';
+import Header from 'src/molecules/Header';
 
 const Wrapper = styled.div`
   display: flex;
@@ -16,6 +17,7 @@ const Wrapper = styled.div`
 
 export default ({ issues }: { issues: IssueType[] }) => (
   <Wrapper>
+    <Header />
     {issues.map((issue) => (
       <Issue data={issue} key={issue.number} />
     ))}

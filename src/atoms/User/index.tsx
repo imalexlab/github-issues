@@ -3,9 +3,11 @@ import styled from 'styled-components';
 import { User } from 'src/utils/types';
 
 const Wrapper = styled.a`
+  align-items: center;
   display: flex;
   flex-direction: column;
   text-decoration: none;
+  width: 50px;
 
   @media (max-width: 768px) {
     display: none;
@@ -26,6 +28,7 @@ const Username = styled.span`
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  width: 50px;
 `;
 
 export default ({ user }: { user: User }) => (

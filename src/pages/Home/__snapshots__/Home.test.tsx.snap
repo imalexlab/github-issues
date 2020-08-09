@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Home 1`] = `
+<div>
+  <div
+    class="sc-fznJRM emLUkf"
+  >
+    <form
+      class="sc-AxirZ kpigiw"
+    >
+      <label
+        class="sc-AxhCb bUlETi"
+        for="issues"
+      >
+        Search with the name of the repository's owner and the repository name
+      </label>
+      <div
+        class="sc-AxiKw hxitwR"
+      >
+        <input
+          aria-label="owner"
+          class="sc-AxhUy iWJWtu"
+          data-testid="input-owner"
+          id="owner"
+          placeholder="facebook"
+          type="text"
+          value=""
+        />
+        <input
+          aria-label="repository"
+          class="sc-AxhUy iWJWtu"
+          data-testid="input-repo"
+          id="repository"
+          placeholder="react"
+          type="text"
+          value=""
+        />
+        <div
+          class="sc-AxgMl bFfuHh"
+        >
+          <button
+            class="sc-AxheI iXIIdi"
+            data-testid="search"
+            disabled=""
+            type="submit"
+          >
+            Search
+          </button>
+          <button
+            class="sc-AxheI iXIIdi"
+            type="reset"
+          >
+            Reset
+          </button>
+        </div>
+      </div>
+    </form>
+    <div
+      class="sc-AxjAm bHThPP"
+    >
+      <div />
+      <div />
+      <div />
+      <div />
+    </div>
+  </div>
+</div>
+`;

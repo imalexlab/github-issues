@@ -3,6 +3,6 @@ import { storiesOf } from '@storybook/react';
 
 import Label from './';
 
-storiesOf('Label', module).add('Default', () => {
+storiesOf('atoms/Label', module).add('Default', () => {
   return <Label name="CLA Signed" />;
 });

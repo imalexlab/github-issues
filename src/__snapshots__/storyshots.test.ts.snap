@@ -1,39 +1,17 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storyshots Issue Default 1`] = `
-<li
-  className="sc-AxhUy enhySx"
+exports[`Storyshots atoms/Label Default 1`] = `
+<p
+  className="sc-AxjAm lmFqts"
+  name="CLA Signed"
 >
-  <a
-    className="sc-AxirZ gNRqZr"
-    href="https://api.github.com/users/trueadm"
-    rel="noopener noreferrer"
-  >
-    <img
-      alt="trueadm"
-      className="sc-AxiKw kANSqL"
-      src="https://avatars0.githubusercontent.com/u/1519870?v=4"
-    />
-    <span
-      className="sc-AxhCb eghHmX"
-    >
-      trueadm
-    </span>
-  </a>
-  <div>
-    <p
-      className="sc-AxgMl fFPQpl"
-    >
-      beforeInputPlugin: add native support for beforeinput
-    </p>
-  </div>
-  19554
-</li>
+  CLA Signed
+</p>
 `;
 
-exports[`Storyshots Spinner Default 1`] = `
+exports[`Storyshots atoms/Spinner Default 1`] = `
 <div
-  className="sc-AxjAm knVtrj"
+  className="sc-AxirZ kxRpSQ"
 >
   <div />
   <div />
@@ -42,21 +20,132 @@ exports[`Storyshots Spinner Default 1`] = `
 </div>
 `;
 
-exports[`Storyshots User Default 1`] = `
+exports[`Storyshots atoms/User Default 1`] = `
 <a
-  className="sc-AxirZ gNRqZr"
+  className="sc-AxiKw eGTecr"
   href="https://api.github.com/users/trueadm"
   rel="noopener noreferrer"
 >
   <img
     alt="trueadm"
-    className="sc-AxiKw kANSqL"
+    className="sc-AxhCb cRRBAH"
     src="https://avatars0.githubusercontent.com/u/1519870?v=4"
   />
   <span
-    className="sc-AxhCb eghHmX"
+    className="sc-AxhUy bjMlfX"
   >
     trueadm
   </span>
 </a>
+`;
+
+exports[`Storyshots molecules/Header Default 1`] = `
+<div
+  className="sc-AxgMl kaROvM"
+>
+  <p
+    className="sc-AxheI ByOdM"
+  >
+    User
+  </p>
+  <p
+    className="sc-AxheI sc-Axmtr gULuFg"
+  >
+    Title of the issue
+  </p>
+  <p
+    className="sc-AxheI ByOdM"
+  >
+    PR
+  </p>
+</div>
+`;
+
+exports[`Storyshots molecules/Issue Default 1`] = `
+<div
+  className="sc-AxmLO bVMplU"
+>
+  <a
+    className="sc-AxiKw eGTecr"
+    href="https://api.github.com/users/trueadm"
+    rel="noopener noreferrer"
+  >
+    <img
+      alt="trueadm"
+      className="sc-AxhCb cRRBAH"
+      src="https://avatars0.githubusercontent.com/u/1519870?v=4"
+    />
+    <span
+      className="sc-AxhUy bjMlfX"
+    >
+      trueadm
+    </span>
+  </a>
+  <div
+    className="sc-fzozJi cEqHCz"
+  >
+    <a
+      className="sc-fzoLsD ihsBWD"
+      href="https://api.github.com/repos/facebook/react/issues/19554"
+    >
+      beforeInputPlugin: add native support for beforeinput
+    </a>
+    <div
+      className="sc-fzpans ciEIDH"
+    >
+      <p
+        className="sc-AxjAm ijIZVK"
+        name="open"
+      >
+        open
+      </p>
+      <p
+        className="sc-AxjAm jGcDyw"
+        color="e7e7e7"
+        name="CLA Signed"
+      >
+        CLA Signed
+      </p>
+      <p
+        className="sc-AxjAm guMhDW"
+        color="9149d1"
+        name="React Core Team"
+      >
+        React Core Team
+      </p>
+    </div>
+  </div>
+  <a
+    className="sc-fzplWN bxzBCM"
+    href="https://github.com/facebook/react/pull/19554"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    PR
+  </a>
+</div>
+`;
+
+exports[`Storyshots molecules/Pagination Default 1`] = `
+<div
+  className="sc-fznyAO cvgiqi"
+>
+  <p
+    className="sc-fzokOt gqICSO"
+  >
+    1
+  </p>
+  <button
+    className="sc-fznZeY cZoEL"
+    onClick={[Function]}
+  >
+    2
+  </button>
+  <button
+    className="sc-fznKkj gprwBT"
+    onClick={[Function]}
+  >
+    Next
+  </button>
+</div>
 `;

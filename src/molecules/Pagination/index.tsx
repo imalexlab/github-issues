@@ -14,6 +14,7 @@ const Wrapper = styled.div`
   list-style: none;
   padding: 0;
   color: #565c88;
+  width: 100%;
 `;
 
 const PreviousNextButton = styled.button`

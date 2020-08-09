@@ -1,0 +1,1119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Issues 1`] = `
+<div>
+  <div
+    class="sc-fzplWN cfnHpF"
+  >
+    <div
+      class="sc-fzozJi iewtGp"
+    >
+      <p
+        class="sc-fzoLsD cnfpvJ"
+      >
+        User
+      </p>
+      <p
+        class="sc-fzoLsD sc-fzpans enynZe"
+      >
+        Title of the issue
+      </p>
+      <p
+        class="sc-fzoLsD cnfpvJ"
+      >
+        PR
+      </p>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/trueadm"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="trueadm"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/1519870?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          trueadm
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19554"
+        >
+          beforeInputPlugin: add native support for beforeinput
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+          <p
+            class="sc-AxhCb ghWzGB"
+            color="9149d1"
+            name="React Core Team"
+          >
+            React Core Team
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19554"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/kartikcho"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="kartikcho"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars1.githubusercontent.com/u/48270786?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          kartikcho
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19553"
+        >
+          Add ReactVersion to SchedulingProfiler render scheduled marks
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19553"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/acdlite"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="acdlite"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/3624098?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          acdlite
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19552"
+        >
+          Parallelize Jest in CI
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+          <p
+            class="sc-AxhCb ghWzGB"
+            color="9149d1"
+            name="React Core Team"
+          >
+            React Core Team
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19552"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/acdlite"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="acdlite"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/3624098?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          acdlite
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19551"
+        >
+          [WIP][Scheduler] Call postTask directly
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+          <p
+            class="sc-AxhCb ghWzGB"
+            color="9149d1"
+            name="React Core Team"
+          >
+            React Core Team
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19551"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/dzmitry-haawk"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="dzmitry-haawk"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/53858504?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          dzmitry-haawk
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19547"
+        >
+          Error: "Cannot read property 'length' of undefined"
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb fnkoXL"
+            color="fbca04"
+            name="Component: Developer Tools"
+          >
+            Component: Developer Tools
+          </p>
+          <p
+            class="sc-AxhCb pDNyB"
+            color="fffde7"
+            name="Resolution: Needs More Information"
+          >
+            Resolution: Needs More Information
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/timothykrell-hb"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="timothykrell-hb"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars2.githubusercontent.com/u/63598274?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          timothykrell-hb
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19545"
+        >
+          Bug: Proxy on Context throws an error in DevTools
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb fnkoXL"
+            color="fbca04"
+            name="Component: Developer Tools"
+          >
+            Component: Developer Tools
+          </p>
+          <p
+            class="sc-AxhCb bnxqlm"
+            color="b60205"
+            name="Type: Bug"
+          >
+            Type: Bug
+          </p>
+          <p
+            class="sc-AxhCb epGPZc"
+            color="6ce26a"
+            name="good first issue"
+          >
+            good first issue
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/bvaughn"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="bvaughn"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/29597?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          bvaughn
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19542"
+        >
+          Improve error boundary handling for unmounted subtrees
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+          <p
+            class="sc-AxhCb ghWzGB"
+            color="9149d1"
+            name="React Core Team"
+          >
+            React Core Team
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19542"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/ROODAY"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="ROODAY"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars3.githubusercontent.com/u/5439867?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          ROODAY
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19541"
+        >
+          Bug: Context doesn't work when exported from a package with multiple entrypoints
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb gVsOfE"
+            color="d4c5f9"
+            name="Status: Unconfirmed"
+          >
+            Status: Unconfirmed
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/krishnaTORQUE"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="krishnaTORQUE"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars2.githubusercontent.com/u/4960568?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          krishnaTORQUE
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19539"
+        >
+          Bug: Crash after update
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb pDNyB"
+            color="fffde7"
+            name="Resolution: Needs More Information"
+          >
+            Resolution: Needs More Information
+          </p>
+          <p
+            class="sc-AxhCb gVsOfE"
+            color="d4c5f9"
+            name="Status: Unconfirmed"
+          >
+            Status: Unconfirmed
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/Jack-Works"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="Jack-Works"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars3.githubusercontent.com/u/5390719?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          Jack-Works
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19537"
+        >
+          Bug: Overwriting console.log during rendering
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb gmgPIh"
+            color="fef2c0"
+            name="Type: Discussion"
+          >
+            Type: Discussion
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/mparizeau-pdftron"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="mparizeau-pdftron"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars2.githubusercontent.com/u/15879431?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          mparizeau-pdftron
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19530"
+        >
+          Bug: "Unspecified error" some of the time in IE11 in iframe
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb gmgPIh"
+            color="fef2c0"
+            name="Component: DOM"
+          >
+            Component: DOM
+          </p>
+          <p
+            class="sc-AxhCb bnxqlm"
+            color="b60205"
+            name="Type: Bug"
+          >
+            Type: Bug
+          </p>
+          <p
+            class="sc-AxhCb epGPZc"
+            color="6ce26a"
+            name="good first issue"
+          >
+            good first issue
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/monkingxue"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="monkingxue"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars1.githubusercontent.com/u/16385790?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          monkingxue
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19525"
+        >
+          test(event-handle): replace eventHandle to clean function
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19525"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/lunaruan"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="lunaruan"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/2735514?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          lunaruan
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19523"
+        >
+          Double Invoke Effects in __DEV__
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+          <p
+            class="sc-AxhCb ghWzGB"
+            color="9149d1"
+            name="React Core Team"
+          >
+            React Core Team
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19523"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/delca85"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="delca85"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars1.githubusercontent.com/u/4076043?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          delca85
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19506"
+        >
+          add failing test (#18051)
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19506"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/rocky-one"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="rocky-one"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/26345259?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          rocky-one
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19491"
+        >
+          Memory leak after component unload
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/xialvjun"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="xialvjun"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/4413712?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          xialvjun
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19482"
+        >
+          Bug: the order of effect and cleanup in Parent and Child component is weird
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb gVsOfE"
+            color="d4c5f9"
+            name="Status: Unconfirmed"
+          >
+            Status: Unconfirmed
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/likuilin"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="likuilin"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/16179637?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          likuilin
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19476"
+        >
+          [eslint-plugin-react-hooks] Bug: rules-of-hooks false positive conditional call after foreach
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb gVsOfE"
+            color="d4c5f9"
+            name="Status: Unconfirmed"
+          >
+            Status: Unconfirmed
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/tdiluzio"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="tdiluzio"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars1.githubusercontent.com/u/8101889?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          tdiluzio
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19474"
+        >
+          Bug: Constraint Validation API not reflected on Textarea's value attribute change
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb gVsOfE"
+            color="d4c5f9"
+            name="Status: Unconfirmed"
+          >
+            Status: Unconfirmed
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/enahsor"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="enahsor"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars0.githubusercontent.com/u/35748031?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          enahsor
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19456"
+        >
+          Updated syntax and readme to match changes made at #17380
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19456"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+    <div
+      class="sc-AxhUy dbdvC"
+    >
+      <a
+        class="sc-AxjAm jzbxUc"
+        href="https://api.github.com/users/trupti0101"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="trupti0101"
+          class="sc-AxirZ dZIUsP"
+          src="https://avatars3.githubusercontent.com/u/45890293?v=4"
+        />
+        <span
+          class="sc-AxiKw gnoCUC"
+        >
+          trupti0101
+        </span>
+      </a>
+      <div
+        class="sc-AxgMl bHaiFG"
+      >
+        <a
+          class="sc-AxheI kHQOIq"
+          href="https://api.github.com/repos/facebook/react/issues/19451"
+        >
+          Added a nice React logo gif to make the readme.md file interesting.
+        </a>
+        <div
+          class="sc-Axmtr cOGXnt"
+        >
+          <p
+            class="sc-AxhCb fiVQRZ"
+            name="open"
+          >
+            open
+          </p>
+          <p
+            class="sc-AxhCb hZYmwX"
+            color="e7e7e7"
+            name="CLA Signed"
+          >
+            CLA Signed
+          </p>
+        </div>
+      </div>
+      <a
+        class="sc-AxmLO eafqgW"
+        href="https://github.com/facebook/react/pull/19451"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        PR
+      </a>
+    </div>
+  </div>
+</div>
+`;

@@ -7,7 +7,7 @@ import Label from 'src/atoms/Label';
 const Wrapper = styled.div`
   align-items: center;
   display: grid;
-  grid-template-columns: 50px 1fr 50px 50px;
+  grid-template-columns: 50px 1fr 50px;
   padding: 10px;
   background-color: #ffffff;
   width: 100%;
@@ -19,7 +19,7 @@ const Wrapper = styled.div`
   }
 
   @media (max-width: 768px) {
-    grid-template-columns: 1fr 50px 50px;
+    grid-template-columns: 1fr 50px;
   }
 `;
 
@@ -43,6 +43,11 @@ const Labels = styled.div`
   flex-wrap: wrap;
 `;
 
+const PRLink = styled.a`
+  text-align: center;
+  color: #565c88;
+`;
+
 export default ({ data }: { data: Issue }) => {
   return (
     <Wrapper>
@@ -60,7 +65,15 @@ export default ({ data }: { data: Issue }) => {
           ))}
         </Labels>
       </IssueContent>
-      <p>{data.comments}</p>
+      {data.pull_request?.html_url && (
+        <PRLink
+          href={data.pull_request?.html_url}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          PR
+        </PRLink>
+      )}
     </Wrapper>
   );
 };

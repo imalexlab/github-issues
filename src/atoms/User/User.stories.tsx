@@ -4,7 +4,7 @@ import mock from 'src/mocks/issues.json';
 
 import User from './';
 
-storiesOf('User', module).add('Default', () => {
+storiesOf('atoms/User', module).add('Default', () => {
   // @ts-ignore
   return <User user={mock[0].user} />;
 });

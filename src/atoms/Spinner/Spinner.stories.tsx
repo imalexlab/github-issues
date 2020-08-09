@@ -3,6 +3,6 @@ import { storiesOf } from '@storybook/react';
 
 import Spinner from './';
 
-storiesOf('Spinner', module).add('Default', () => {
+storiesOf('atoms/Spinner', module).add('Default', () => {
   return <Spinner />;
 });
